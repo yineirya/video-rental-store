@@ -72,8 +72,8 @@ public class VideoStore {
 
   public Customer findCustomer(long phoneNumber){
     for (int i = 0; i < customerCount; i++){
-      if (customer[i].getPhoneNumber() == phoneNumber){
-        return customer[i];
+      if (customers[i].getPhoneNumber() == phoneNumber){
+        return customers[i];
       }
     }
     return null;
