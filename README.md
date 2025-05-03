@@ -6,14 +6,14 @@ A Java-based command-line program simulating a simple video rental store system,
 
 This project was developed as a final for my **Data Structures and Algorithms** course in **Fall 2023** at Pace University.
 
-## 💡 Features
+## 🔧 Features
 
 - Add customers and videos to the store
 - Rent and return videos by barcode
 - Display all customers who have rented a specific video
 - Enforces a rental limit of 3 videos per customer
 
-## 🧱 Technologies Used
+## 💡 Technologies Used
 
 - Java
 - Arrays and custom classes
